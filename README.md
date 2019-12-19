@@ -1,4 +1,4 @@
-# VM_set_error
+# VM_Inatall_error
 
 출처: https://elsainmac.tistory.com/545
 
