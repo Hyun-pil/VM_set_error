@@ -2,9 +2,7 @@
 
 출처: https://elsainmac.tistory.com/545
 
-* VirtualBax 설치시 설치 오류 해결 방법 *
-
-Mac에서 VirtualBox kext 권한 오류 해결방법
+* Mac에서 VirtualBox kext 권한 오류 해결방법
 
 1. 인스톨 실패시 인스톨 창을 닫고 재부팅.
 2. Command+R로 복구모드로 부팅.
